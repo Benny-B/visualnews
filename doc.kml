@@ -4283,7 +4283,7 @@
     <S_country>
       <name>Sudan</name>
       <visibility>0</visibility>
-      <description><![CDATA[<a href='http://www.google.com/search?q=Sudan'>Search Google</a> <BR><a href='http://maps.google.com/?ll=13.8329607138716,30.0558223551497&spn=0.02,0.02&t=h'>Maps Google</a> <BR>]]></description>
+      
       <styleUrl>#khStyle548_1</styleUrl>
       <Style>
         <PolyStyle>

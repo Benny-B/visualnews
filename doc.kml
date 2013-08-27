@@ -4281,15 +4281,7 @@
       <COLOR_MAP>2</COLOR_MAP>
     </S_country>
     <S_country>
-      <name>Sudan</name>
-      <visibility>0</visibility>
-      
-      <styleUrl>#khStyle548_1</styleUrl>
-      <Style>
-        <PolyStyle>
-          <color>78ffe8be</color>
-        </PolyStyle>
-      </Style>
+     
       <Polygon>
         <outerBoundaryIs>
           <LinearRing>
